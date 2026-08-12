@@ -8,6 +8,8 @@
         .bg {
             fill: #0d1117;
             rx: 15px;
+            stroke: #30363d;
+            stroke-width: 2px;
         }
     </style>
     <rect width="1100" height="490" class="bg"/>
@@ -52,6 +54,6 @@
         <text x="400" y="342" class="text" xml:space="preserve"><tspan fill="#484f58">- </tspan><tspan fill="#58a6ff">GitHub Stats</tspan> <tspan fill="#484f58">----------------------------------------------------------------</tspan></text>
         <text x="400" y="360" class="text" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Repos:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#8b949e">13 {Contributed: 13}</tspan> <tspan fill="#484f58">|</tspan> <tspan fill="#c9d1d9">Stars:</tspan> <tspan fill="#484f58">............. </tspan><tspan fill="#8b949e">1</tspan></text>
         <text x="400" y="378" class="text" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Commits:</tspan><tspan fill="#484f58"> ................ </tspan><tspan fill="#8b949e">145</tspan> <tspan fill="#484f58">|</tspan> <tspan fill="#c9d1d9">Followers:</tspan> <tspan fill="#484f58">........ </tspan><tspan fill="#8b949e">4</tspan></text>
-        <text x="400" y="396" class="text" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Lines of Code on GitHub:</tspan> <tspan fill="#484f58">. </tspan><tspan fill="#8b949e">152,481 ( 105,896++, 46,585-- )</tspan></text>
+        <text x="400" y="396" class="text" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">Lines of Code on GitHub:</tspan> <tspan fill="#484f58">. </tspan><tspan fill="#8b949e">152,481 ( </tspan><tspan fill="#3fb950">105,896++</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#f85149">46,585--</tspan><tspan fill="#8b949e"> )</tspan></text>
     </g>
 </svg>
