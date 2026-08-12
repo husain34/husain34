@@ -8,7 +8,7 @@
         .bg {
             fill: #0d1117;
             rx: 15px;
-            stroke: #30363d;
+            stroke: #484f58;
             stroke-width: 2px;
         }
     </style>
