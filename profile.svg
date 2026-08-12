@@ -6,13 +6,13 @@
             white-space: pre;
         }
         .bg {
-            fill: #0d1117;
+            fill: #161b22;
             rx: 15px;
-            stroke: #484f58;
+            stroke: #30363d;
             stroke-width: 2px;
         }
     </style>
-    <rect width="1100" height="490" class="bg"/>
+    <rect x="1" y="1" width="1098" height="488" class="bg"/>
     <g transform="translate(20, 30)">
         <text x="0" y="0" class="text"><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#040404">&#160;</tspan><tspan fill="#070808">&#160;</tspan><tspan fill="#050606">&#160;</tspan><tspan fill="#030303">&#160;</tspan><tspan fill="#010101">&#160;</tspan><tspan fill="#010101">&#160;</tspan></text>
         <text x="0" y="36" class="text"><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#000000">&#160;</tspan><tspan fill="#060606">&#160;</tspan><tspan fill="#161717">&#160;</tspan><tspan fill="#323333">.</tspan><tspan fill="#989e9b">+</tspan><tspan fill="#a1a7a3">+</tspan><tspan fill="#b3b9b5">*</tspan><tspan fill="#c2c9c5">#</tspan><tspan fill="#b9c0bc">*</tspan><tspan fill="#aeb5b2">*</tspan><tspan fill="#5d605f">-</tspan><tspan fill="#4f5251">:</tspan><tspan fill="#d0d9d5">#</tspan><tspan fill="#636866">-</tspan></text>
