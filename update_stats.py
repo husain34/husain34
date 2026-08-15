@@ -36,6 +36,11 @@ total_stars = 0
 for repo in repos:
     repo_name = repo['name']
     total_stars += repo.get('stargazers_count', 0)
+    
+    # Filter out odysseus-trace repo from commit and lines of code stats
+    if repo_name == 'odysseus-trace':
+        continue
+        
     stats_url = f"https://api.github.com/repos/{username}/{repo_name}/stats/contributors"
     req = get_request(stats_url)
     
